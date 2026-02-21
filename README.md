@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center"> wsp gng👋</h1>
 
-<!--
-**sajicooltoday/sajicooltoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Developer | 🎮 Game Scripting
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+- 💬 Discord: **@vionate5243**
+- 🌐 Bio: [fakecrime.bio/saji](https://fakecrime.bio/saji)
+
+---
+
+## 🧠 Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40" alt="Luau"/>
+</p>
+
+- 🟦 **C++**  
+- 🌙 **Lua**
+- 🔵 **Luau**
+</p>
