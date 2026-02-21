@@ -18,7 +18,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" height="40" alt="Luau"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/luau.svg" height="40" alt="Luau"/>
 </p>
 
 - 🟦 **C++**  
