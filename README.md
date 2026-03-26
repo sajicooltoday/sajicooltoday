@@ -1,4 +1,4 @@
-<h1 align="center"> wsp gng👋</h1>
+<h1 align="center">wsp gng👋</h1>
 
 <p align="center">
   💻 Developer | 🎮 Game Scripting | ⚙️ Reverse Engineering
@@ -9,28 +9,26 @@
 ## 📬 Contact
 
 - 💬 Discord: **@vionate5243**
-- 🌐 Bio: [fakecrime.bio/saji](https://fakecrime.bio/saji)
+- 🌐 Bio: https://fakecrime.bio/saji
 
 ---
 
 ## 🧠 Languages & Tools
 
-<p align="left">
+<p align="center">
   <!-- Rust -->
-  <a href="https://www.rust-lang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-         height="40"
-         alt="Rust"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
+       height="55"
+       alt="Rust"/>
+  <br>
+  <b>🦀 Rust</b>
+
+  <br><br>
 
   <!-- Luau -->
-  <a href="https://luau.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/sajicooltoday/sajicooltoday/main/luau.svg"
-         width="40"
-         height="40"
-         alt="Luau"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/sajicooltoday/sajicooltoday/main/luau.svg"
+       height="55"
+       alt="Luau"/>
+  <br>
+  <b>🔵 Luau</b>
 </p>
-
-- 🦀 **Rust**  
-- 🔵 **Luau**
