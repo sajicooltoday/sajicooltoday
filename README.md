@@ -16,18 +16,11 @@
 ## 🧠 Languages & Tools
 
 <p align="left">
-  <!-- C++ -->
-  <a href="https://isocpp.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
          height="40"
-         alt="C++"/>
-  </a>
-
-  <!-- Lua -->
-  <a href="https://www.lua.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"
-         height="40"
-         alt="Lua"/>
+         alt="Rust"/>
   </a>
 
   <!-- Luau -->
@@ -39,7 +32,5 @@
   </a>
 </p>
 
-- 🟦 **C++**  
-- 🌙 **Lua**
+- 🦀 **Rust**  
 - 🔵 **Luau**
-</p>
