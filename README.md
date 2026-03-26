@@ -9,7 +9,7 @@
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://discord.com/users/vionate5243" target="_blank">💬 Discord: @vionate5243</a> |
+  <a href="https://discord.com/users/sajixo" target="_blank">💬 Discord: @vionate5243</a> |
   <a href="https://fakecrime.bio/saji" target="_blank">🌐 Bio</a>
 </p>
 
