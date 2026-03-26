@@ -15,20 +15,22 @@
 
 ## 🧠 Languages & Tools
 
-<p align="center">
-  <!-- Rust -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-       height="55"
-       alt="Rust"/>
-  <br>
-  <b>🦀 Rust</b>
+<div align="center">
 
-  <br><br>
+  <!-- Rust -->
+  <div style="margin-bottom: 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
+         height="70"
+         style="display:block; margin:auto;" />
+    <b>🦀 Rust</b>
+  </div>
 
   <!-- Luau -->
-  <img src="https://raw.githubusercontent.com/sajicooltoday/sajicooltoday/main/luau.svg"
-       height="55"
-       alt="Luau"/>
-  <br>
-  <b>🔵 Luau</b>
-</p>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg"
+         height="70"
+         style="display:block; margin:auto;" />
+    <b>🔵 Luau</b>
+  </div>
+
+</div>
