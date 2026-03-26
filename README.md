@@ -8,29 +8,27 @@
 
 ## 📬 Contact
 
-- 💬 Discord: **@vionate5243**
-- 🌐 Bio: https://fakecrime.bio/saji
+<p align="center">
+  <a href="https://discord.com/users/vionate5243" target="_blank">💬 Discord: @vionate5243</a> |
+  <a href="https://fakecrime.bio/saji" target="_blank">🌐 Bio</a>
+</p>
 
 ---
 
-## 🧠 Languages & Tools
+## 🛠️ Languages & Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="60" style="margin:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" alt="Luau" width="60" style="margin:10px;" />
+</p>
 
-  <!-- Rust -->
-  <div style="margin-bottom: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-         height="70"
-         style="display:block; margin:auto;" />
-    <b>🦀 Rust</b>
-  </div>
+<p align="center">
+  <b>🦀 Rust</b> &nbsp;&nbsp; | &nbsp;&nbsp; <b>🔵 Luau</b>
+</p>
 
-  <!-- Luau -->
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg"
-         height="70"
-         style="display:block; margin:auto;" />
-    <b>🔵 Luau</b>
-  </div>
+---
 
-</div>
+## ⚙️ About
+
+- Game scripting and reverse engineering projects  
+- Low-level programming and tooling
