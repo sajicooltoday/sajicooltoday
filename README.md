@@ -1,7 +1,7 @@
 <h1 align="center">wsp gng👋</h1>
 
 <p align="center">
-  💻 Developer | 🎮 Roblox Game Development & Exploiting | ⚙️ Reverse Engineering
+  💻 Programmer | 🎮 Roblox Game Development & Exploiting | ⚙️ Reverse Engineering
 </p>
 
 ---
