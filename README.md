@@ -18,7 +18,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  C++ &nbsp;&nbsp; | &nbsp;&nbsp; Luau &nbsp;&nbsp; | &nbsp;&nbsp; IDA Pro
+  C++ 🔵 &nbsp;&nbsp; | &nbsp;&nbsp; Luau 👌 &nbsp;&nbsp; | &nbsp;&nbsp; IDA Pro ⏪
 </p>
 
 ---
@@ -27,3 +27,4 @@
 
 - Game scripting and reverse engineering projects  
 - Low-level programming and tooling
+- Always will respond to DMs if they arent dumb
