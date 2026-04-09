@@ -18,12 +18,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Rust" width="60" style="margin:10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" alt="Luau" width="60" style="margin:10px;" />
-</p>
-
-<p align="center">
-  <b>C++</b> &nbsp;&nbsp; | &nbsp;&nbsp; <b>Luau</b>
+  C++ &nbsp;&nbsp; | &nbsp;&nbsp; Luau &nbsp;&nbsp; | &nbsp;&nbsp; IDA Pro
 </p>
 
 ---
