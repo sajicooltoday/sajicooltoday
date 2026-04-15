@@ -18,7 +18,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  C++ 🔵 &nbsp;&nbsp; | &nbsp;&nbsp; Luau 👌 &nbsp;&nbsp; | &nbsp;&nbsp; IDA Pro ⏪ | &nbsp;&nbsp; Python 🐍
+  C++ 🔵 &nbsp;&nbsp; | &nbsp;&nbsp; Luau 👌 &nbsp;&nbsp; | &nbsp;&nbsp; IDA Pro ⏪ &nbsp;&nbsp; | &nbsp;&nbsp; Python 🐍
 </p>
 
 ---
