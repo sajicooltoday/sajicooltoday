@@ -33,8 +33,7 @@
 ---
 
 **projects & links**
-- bio @ [fakecrime](https://fakecrime.bio/saji)
-- owner @ [onyx softworks](https://discord.gg/Dah6mWGXP3)
-- owner @ [neuron](https://discord.gg/r5hG9Vmcsy)
+- bio @ not completed :/
+- owner @ [saji's scripts](https://discord.gg/Dah6mWGXP3)
 
 ---
