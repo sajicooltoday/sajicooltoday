@@ -32,6 +32,7 @@ Blender/3D Design
 
 *tools & frameworks*  
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20(the%20purple%20and%20green%20one)-AF1AD9?style=flat&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-af1ad9?style=flat&logo=blender&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-af1ad9?style=flat&logo=robloxstudio&logoColor=white)
 ![IDA](https://img.shields.io/badge/IDA%20Pro-AF1AD9?style=flat&logoColor=white)
@@ -40,6 +41,6 @@ Blender/3D Design
 
 **projects & links**  
 bio @ not completed :/  
-owner @ [saji's scripts](https://discord.gg/Dah6mWGXP3)
+owner @ [saji's scripts](https://discord.gg/5SszD6fWC8)
 
 </div>
