@@ -1,24 +1,21 @@
-<h1 align="center">saji</h1>
-
-<p align="center">
-  idk
-  dm me if you need commission or something my discord is (@sajixo)
-</p>
+<div align="center">
+  <a href="https://discord.com/users/769030237148413992">
+    <img src="https://lanyard.cnrad.dev/api/769030237148413992" alt="Discord Presence">
+  </a>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajicooltoday&label=views&color=af1ad9&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  hi, im saji. 👋<br>
+  i make stuff and do stuff<br>
+  im a passionate competitive programmer, i like to spend most of my day coding & spending my freetime with gaming.<br>
+  my skills are mainly reverse engineering and game cheating/exploiting & ui design
+</p>
+
 <div align="center">
-
----
-
-**skills/focus**
-
-Cheating/Exploiting  
-Reverse Engineering  
-Advanced Roblox UI Design  
-Blender/3D Design  
 
 ---
 
@@ -26,21 +23,25 @@ Blender/3D Design
 
 *languages*  
 
-![Python](https://img.shields.io/badge/Python-af1ad9?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-af1ad9?style=flat&logo=c%2B%2B&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-af1ad9?style=flat&logo=luau&logoColor=white)
+[![skills](https://skillicons.dev/icons?i=cs,python,lua&theme=dark)](https://skillicons.dev)
 
-*tools & frameworks*  
+*tools & frameworks* 
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20(the%20purple%20and%20green%20one)-AF1AD9?style=flat&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-af1ad9?style=flat&logo=blender&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-af1ad9?style=flat&logo=robloxstudio&logoColor=white)
-![IDA](https://img.shields.io/badge/IDA%20Pro-AF1AD9?style=flat&logoColor=white)
+[![skills](https://skillicons.dev/icons?i=robloxstudio,visualstudio,vscode,blender,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
 **projects & links**  
 bio @ not completed :/  
-owner @ [saji's scripts](https://discord.gg/5SszD6fWC8)
+owner @ [saji's stuff](https://discord.gg/5SszD6fWC8)
+
+<br/><p align="center">
+<a href="https://github.com/sajicooltoday">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajicooltoday&theme=transparent"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajicooltoday&theme=transparent"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajicooltoday&theme=transparent"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajicooltoday&theme=transparent"/>
+</a>
+</p>
 
 </div>
