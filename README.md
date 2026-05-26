@@ -5,10 +5,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajicooltoday&label=views&color=af1ad9&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   hi, im saji. 👋<br>
   i make stuff and do stuff.<br>
   im a passionate competitive programmer, i like to spend most of my day coding & spending my freetime with gaming.<br>
