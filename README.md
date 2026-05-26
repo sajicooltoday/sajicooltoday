@@ -10,9 +10,9 @@
 
 <p align="center">
   hi, im saji. 👋<br>
-  i make stuff and do stuff<br>
+  i make stuff and do stuff.<br>
   im a passionate competitive programmer, i like to spend most of my day coding & spending my freetime with gaming.<br>
-  my skills are mainly reverse engineering and game cheating/exploiting & ui design
+  my skills are mainly reverse engineering and game cheating/exploiting & ui design.
 </p>
 
 <div align="center">
@@ -23,11 +23,13 @@
 
 *languages*  
 
-[![skills](https://skillicons.dev/icons?i=cs,python,lua&theme=dark)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=cs,python,lua&theme=dark)](https://skillicons.dev)\
+<sub>the lua is ment to be luau but theres no icon*</sub>
 
 *tools & frameworks* 
 
-[![skills](https://skillicons.dev/icons?i=robloxstudio,visualstudio,vscode,blender,figma&theme=dark)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=robloxstudio,visualstudio,vscode,blender,figma&theme=dark)](https://skillicons.dev)\
+<sub>some other notable tools i use that do not have an icon: ida pro, ghidra.</sub>
 
 ---
 
