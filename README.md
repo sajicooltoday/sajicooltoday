@@ -19,7 +19,7 @@
 
 *languages*  
 
-[![skills](https://skillicons.dev/icons?i=cs,cpp,lua&theme=dark)](https://skillicons.dev)\
+[![skills](https://skillicons.dev/icons?i=cpp,lua&theme=dark)](https://skillicons.dev)\
 <sub>the lua is ment to be luau but theres no icon*</sub>
 
 *tools & frameworks* 
