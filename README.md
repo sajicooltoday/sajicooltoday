@@ -19,7 +19,7 @@
 
 *languages*  
 
-[![skills](https://skillicons.dev/icons?i=cpp,lua&theme=dark)](https://skillicons.dev)\
+[![skills](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)\
 <sub>the lua is ment to be luau but theres no icon*</sub>
 
 *tools & frameworks* 
@@ -30,7 +30,7 @@
 ---
 
 **projects & links**  
-bio @ not completed :/  
+bio @ not completed (learning web dev) :/  
 owner @ [saji's stuff](https://discord.gg/5SszD6fWC8)
 
 <br/><p align="center">
