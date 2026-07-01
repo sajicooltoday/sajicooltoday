@@ -24,7 +24,7 @@
 
 *tools & frameworks* 
 
-[![skills](https://skillicons.dev/icons?i=robloxstudio,visualstudio,vscode,blender,figma&theme=dark)](https://skillicons.dev)\
+[![skills](https://skillicons.dev/icons?i=robloxstudio,visualstudio,vscode,blender,figma,git&theme=dark)](https://skillicons.dev)\
 <sub>some other notable tools i use that do not have an icon: ida pro, ghidra, cheat engine.</sub>
 
 ---
