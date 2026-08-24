@@ -4,15 +4,14 @@
   </a>
 </div>
 
-<p align="center">
-  hi, im saji. 👋<br>
-  im a passionate programmer.<br>
-</p>
-
 <div align="center">
 
-**projects & links**  
-bio @ not completed (learning web dev) :/
+**bio**\
+hi, im saji. 👋\
+im a passionate programmer.
+
+**projects & links**\
+none
 
 <br/><p align="center">
 <a href="https://github.com/sajicooltoday">
